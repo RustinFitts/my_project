@@ -1,0 +1,121 @@
+html, body {
+	
+	margin: 0;
+	padding: 0;
+	background-color: rgb(24,24,24);
+}
+
+.container{
+
+	width:980px;
+	margin:0 auto;
+	padding:0;
+}
+
+.header{
+
+	background-color:#333333;
+}
+
+.nav{
+
+	text-align: left;
+	margin:0;
+	padding:20px 0;
+	
+}
+
+.nav a{
+
+	padding:10px;
+	text-transform: uppercase;
+	text-decoration:  none;
+	color:#fff;
+	
+
+}
+
+.nav li{
+
+	display:inline-block;	
+	font-family:'Raleway', sans-serif;
+	font-weight: 600;
+  	font-size: 12px;
+
+}
+
+.jumbotron {
+
+	height:750px;
+	background:url('http://img.gawkerassets.com/img/18bluorzjo1b9jpg/original.jpg') no-repeat ;
+	background-size: cover;
+	padding-top:0;
+	margin:0;
+
+}
+
+
+.jumbotron h1{
+
+	text-align: left;
+	font-family:Cuprum;
+	font-size: 70px;
+	color:#333333;
+	margin:0;
+	padding: 65px 360px;
+	padding-bottom: 0px;	
+	position:relative;
+	left: -125px;
+}
+
+.jumbotron h3{
+
+	text-align: left;
+	font-family:Cuprum;
+	color:#333333;
+	margin:0;
+	padding:0;
+	padding-left:360px;
+	position:relative;
+	left: -125px;
+}
+
+.supporting{
+	height:350px;
+	text-align: center;
+	padding:0;
+	margin:0;
+}
+
+.col{	
+
+	padding-top: 80px;
+	float:left;
+  	width: 20%;	  
+}
+
+.col p{
+
+	color:#fff;
+}
+
+.footer{
+
+	text-align: left;
+	padding:20px;
+	margin:0;
+	background-color:#333333; 
+	color:#fff;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 10px;
+	
+
+}
+
+.footer p{
+
+	left:	50px;
+	position:	relative;
+
+}
