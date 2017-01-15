@@ -28,7 +28,7 @@ nav{
 
 nav a{
 
-	padding:10px;
+	padding:15px;
 	text-transform: uppercase;
 	text-decoration:  none;
 	color:#fff;
@@ -39,13 +39,9 @@ nav a{
 }
 
 nav a:hover{
-
-	padding:10px;
-	text-transform: uppercase;
+	margin:0;
+	border: solid 1px #3F6198;
 	text-decoration:  none;
-	color:yellow;
-	
-
 }
 
 
@@ -90,7 +86,7 @@ nav a:hover{
 	text-align: center;
 	padding:0;
 	margin:0;
-	background-color: #111314;
+	background-color: #1D1D1D;
 }
 
 .col{	
