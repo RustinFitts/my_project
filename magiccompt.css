@@ -1,5 +1,6 @@
 
-html, body {
+
+	html, body {
 	
 	margin: 0;
 	padding: 0;
@@ -28,18 +29,18 @@ nav{
 
 nav a{
 
-	padding:15px;
+	padding:10px;
 	text-transform: uppercase;
 	text-decoration:  none;
 	color:#fff;
 	font-family:'Raleway', sans-serif;
 	font-weight: 600;
   	font-size: 12px;
+  	border: solid 1px #333333;
 
 }
 
 nav a:hover{
-	margin:0;
 	border: solid 1px #3F6198;
 	text-decoration:  none;
 }
